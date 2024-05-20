@@ -1,5 +1,3 @@
-//siya var raam chandra ki jai, raam bhakt hanuman ki jai...
-
 const express=require('express');
 const bodyParser=require('body-parser');
 const mysql=require('mysql');
@@ -8,7 +6,7 @@ const cors=require('cors');
 const con=mysql.createConnection({
     host:'localhost',
     user:'root',
-    password:'Chetan@007',
+    password:'****',
     database:'chetan'
 });
 
